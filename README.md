@@ -1,4 +1,4 @@
-<h2 align="center">✨ Hey there! I'm Roshnisingh ✨</h2>
+<h2 align="center"> Hey! I'm Roshnisingh </h2>
 
 
 ### 👋 About Me
